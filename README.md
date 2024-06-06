@@ -1,2 +1,2 @@
-# Diet-Intervention-Shotgun-Metagenomics-Pipeline
-This repository summarizes our work in processing shotgun metagenomics data from our HIV diet intervention study
+# Zimbabwe Fungal Analysis
+This repository summarizes our work analyzing fungal communities by 18S and shotgun metagenomics in a Zimbabwe human HIV study.
